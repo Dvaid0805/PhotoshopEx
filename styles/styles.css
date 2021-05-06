@@ -3,15 +3,12 @@
     height: 500px;
     display: flex;
     justify-content: center;
-
     color:white;
-
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
 }
 .footer{
     margin-top: 120px;
-    
     max-width: 250px;
     max-height:266px; 
 }
@@ -19,13 +16,10 @@
     margin-left: 60px;
     margin-bottom:50px;
 }
-.info{
-    margin-bottom: 85px;
-}
-.info p{
+
+.heading{
     text-transform:uppercase;
     text-align: center;
- 
 }
 .info hr{
     width: 230px;
@@ -37,15 +31,14 @@
     display: flex;
     justify-content: space-between;
     margin-right: 40px;
-    
 }
 
 .copyright{
     font-size: 16px;
     width: 270px;
-
+    margin-top: 85px;
 }
+
 .copyright span{
     color:#00C8FE;
-
 }
